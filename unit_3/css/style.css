@@ -1,5 +1,5 @@
 body {
-	background: <img src=“images/Flags-Global-sm300.jpg”>;
+	background url(../"Flags-Global-sm300.jpg");
 }
 h1, p {
 	color: orange;
