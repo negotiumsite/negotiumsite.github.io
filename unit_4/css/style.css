@@ -1,8 +1,10 @@
-body {
-	background url(../"Flags-Global-sm300.jpg");
-    font-family: 'Raleway', sans-serif;
+body {	font-family: 'Raleway', sans-serif;}
+* { margin:0 padding:0; box-sizing;border-box; }
+.clearfix:after {
+		content:".";
+		visibility:hidden;
+		display:block;
+		height:0;
+		clear: both;
 }
-
-h1, p {
-	color: black;
-}
+h1, p {color: black;}
